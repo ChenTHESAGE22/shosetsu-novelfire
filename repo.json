@@ -1,0 +1,20 @@
+{
+  "name": "Novelfire Repository",
+  "description": "Community repo containing the Novelfire extension (source code). Multi-language ready.",
+  "version": 1,
+  "authors": [
+    {
+      "name": "Prepared by ChatGPT",
+      "contact": ""
+    }
+  ],
+  "extensions": [
+    {
+      "id": "novelfire",
+      "name": "Novelfire (source)",
+      "type": "kotlin",
+      "path": "Novelfire.kt",
+      "lang": "all"
+    }
+  ]
+}
